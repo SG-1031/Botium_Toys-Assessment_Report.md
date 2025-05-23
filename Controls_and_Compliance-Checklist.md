@@ -44,7 +44,3 @@
 |  X  |     | Data integrity measures are in place                 | Data integrity ensured. |
 |  X  |     | Authorized data access only                          | All employees have access, restrictions are needed. |
 
-## Recommendations
-To reduce risk and improve Botium Toys’ security posture, the following actions are recommended:
-- **Implement key controls**: Least Privilege, separation of duties, encryption, IDS, disaster recovery plans, password management system, scheduled legacy system maintenance.
-- **Improve compliance**: Enforce restricted access to sensitive data, implement encryption for PII and financial data, and properly classify all inventoried assets.
